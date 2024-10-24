@@ -19,3 +19,8 @@ else if(vki>=25 && vki<30)
     Console.WriteLine("KİLOLU");
 else if(vki>=30)
     Console.WriteLine("AŞIRI KİLOLU");
+
+
+int not = 70;
+
+
