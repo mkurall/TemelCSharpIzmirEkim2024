@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u01_IlkUygulama", "u01_IlkU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u02_veri_tipleri", "u02_veri_tipleri\u02_veri_tipleri.csproj", "{C20F2B68-EF18-4622-9B93-71458A685DC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u03_nothesaplama", "u03_nothesaplama\u03_nothesaplama.csproj", "{50B95664-92DA-4A85-8E19-F07F4C7F6B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C20F2B68-EF18-4622-9B93-71458A685DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20F2B68-EF18-4622-9B93-71458A685DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20F2B68-EF18-4622-9B93-71458A685DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B95664-92DA-4A85-8E19-F07F4C7F6B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B95664-92DA-4A85-8E19-F07F4C7F6B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B95664-92DA-4A85-8E19-F07F4C7F6B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B95664-92DA-4A85-8E19-F07F4C7F6B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
