@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u08_do_while_dongusu", "u08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u09_pin_kodu", "u09_pin_kodu\u09_pin_kodu.csproj", "{62D86181-8F37-44CB-B5F1-CFA141C319D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u10_diziler", "u10_diziler\u10_diziler.csproj", "{6622F0AA-A3EC-45F0-9EAC-FC61B4B34444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{62D86181-8F37-44CB-B5F1-CFA141C319D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62D86181-8F37-44CB-B5F1-CFA141C319D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62D86181-8F37-44CB-B5F1-CFA141C319D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6622F0AA-A3EC-45F0-9EAC-FC61B4B34444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6622F0AA-A3EC-45F0-9EAC-FC61B4B34444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6622F0AA-A3EC-45F0-9EAC-FC61B4B34444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6622F0AA-A3EC-45F0-9EAC-FC61B4B34444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
