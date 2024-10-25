@@ -1,5 +1,6 @@
 ﻿double OrtalamaHesapla(params int[] sayilar)
 {
+    /*
     int toplam = 0;
     foreach(int s in sayilar)
     {
@@ -7,6 +8,11 @@
     }
 
     return toplam / (double)sayilar.Length; //int/int sonuç yine int  (6+5)/2 = 5
+    */
+ 
+
+    return sayilar.Average();
+
 }
 
 

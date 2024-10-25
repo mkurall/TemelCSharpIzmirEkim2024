@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u13_degisken_parametreli_me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u14_ref_ve_out", "u14_ref_ve_out\u14_ref_ve_out.csproj", "{0C5BCC69-869D-434E-BA54-49101ABB8AA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u15_hazir_metotlar", "u15_hazir_metotlar\u15_hazir_metotlar.csproj", "{1A2F821A-FEEB-4602-8547-14829F8E8BB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{0C5BCC69-869D-434E-BA54-49101ABB8AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5BCC69-869D-434E-BA54-49101ABB8AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5BCC69-869D-434E-BA54-49101ABB8AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2F821A-FEEB-4602-8547-14829F8E8BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2F821A-FEEB-4602-8547-14829F8E8BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2F821A-FEEB-4602-8547-14829F8E8BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2F821A-FEEB-4602-8547-14829F8E8BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
