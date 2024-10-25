@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u11_metin_dizisi", "u11_met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u12_metotlar", "u12_metotlar\u12_metotlar.csproj", "{07193893-A4A3-4C0E-93AB-1ECCEF09C497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u13_degisken_parametreli_metot", "u13_degisken_parametreli_metot\u13_degisken_parametreli_metot.csproj", "{27F035A7-E79E-40D0-98C5-51F568CE56B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{07193893-A4A3-4C0E-93AB-1ECCEF09C497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07193893-A4A3-4C0E-93AB-1ECCEF09C497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07193893-A4A3-4C0E-93AB-1ECCEF09C497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F035A7-E79E-40D0-98C5-51F568CE56B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F035A7-E79E-40D0-98C5-51F568CE56B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F035A7-E79E-40D0-98C5-51F568CE56B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F035A7-E79E-40D0-98C5-51F568CE56B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
